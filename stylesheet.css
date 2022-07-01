@@ -1,0 +1,37 @@
+.image{
+    
+    display: block;
+    margin:50px auto 20px auto;
+    width: 160px;
+    height: 160px;
+    border-radius: 100px;
+    border: 7px solid #adb5bd;
+}
+.card{
+    text-align: center;
+    background: #343a40;
+    margin: 20px auto;
+    padding: 30px;
+    width: 350px;
+    height: 500px;
+    border-bottom: 5px solid #212529;
+    border-left: 5px solid #212529;
+    border-radius: 20px;
+}
+.info{
+    display: block;
+    width: 300px;;
+    margin: 0px auto;
+}
+.name{
+    font-weight: bold;
+    color: #f8f9fa;
+    border: 3px solid #f8f9fa;
+    padding: 5px 0;
+    
+}
+.profession{
+    color: #f8f9fa;
+    font-weight: lighter;
+    line-height: 10px;
+}
